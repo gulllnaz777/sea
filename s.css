@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+body{
+    background-color: rgb(250, 238, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 70px;
+}
+
+.container{
+    display: flex;
+    background-color: white;
+    height: 330px;
+    width: 900px;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 8px;
+
+}
+
+.container p{
+    font-size: smaller;
+}
+
+.enter{
+    padding: 20px 30px;
+}
+
+.f{
+    font-size: smaller;
+    display: flex;
+    flex-direction: row;
+}
+
+.or h6{
+    padding-left: 60px;
+    color: grey;
+}
+.sea{
+    padding-right: 10px;
+}
+
+
+.forgot{
+    display: flex;
+    flex-direction: row;
+    justify-content: between;
+}
+.n{
+    margin-left: 40px;
+}
+
+.sea{
+    padding-bottom: ;
+}
+ 
+
+.Google {
+   font-size: smaller;
+   display: flex;
+   flex-direction: row;
+}
+
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: between;
+}
+
+a{
+    font-size: small;
+}
+
+.text{
+    padding: 5px;
+}
